@@ -1,1 +1,0 @@
-# gemini-golang-todo-app
